@@ -2,7 +2,7 @@
 # 目录
 0. [基本概念](basics.md)
 1. 良好的 C++ 编程习惯
-    - [视 C++ 为一个语言集合体]()
+    - [将 C++ 视作多范型的编程语言](view-cpp-as-a-federation-of-languages.md) - 【带审阅】
     - [尽量以 `const`、`enum`、`inline` 替换 `#define`](prefer-consts-enums-and-inlines-to-defines.md) - 【待审阅】
     - [尽可能使用 `const`]()
     - [确定对象被使用前已先被初始化]()
