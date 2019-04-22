@@ -12,7 +12,7 @@
     - [为多态基类声明 `virtual` 析构函数]()
     - [别让异常逃离析构函数]()
     - [绝不在构造和析构过程中调用 `virtual` 函数]()
-    - [令 `operator=` 返回 `*this` 的引用]()
+    - [让赋值运算符返回 `*this` 的引用](have-assignment-operators-return-a-reference-to-this.md) - 【待审阅】
     - [在 `operator=` 中处理“自我赋值”]()
     - [复制对象时勿忘其每一个成分]()
 3. 资源管理
