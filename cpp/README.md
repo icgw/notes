@@ -20,7 +20,7 @@
     - [在资源管理类中小心 coping 行为]()
     - [在资源管理类中提供对原始资源的访问]()
     - [成对使用 `new` 和 `delete` 时要采取相同形式]()
-    - [以独立语句将 newed 对象置入智能指针]()
+    - [以独立语句将 newed 对象置入智能指针](store-newed-objeccts-in-smart-pointers-in-standalone-statements.md) - 【正在编写】
 4. 设计与声明
     - [让接口容易被正确使用，不易被误用]()
     - [设计 class 犹如设计 type]()
